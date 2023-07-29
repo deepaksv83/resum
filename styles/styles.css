@@ -1,0 +1,151 @@
+.name{
+    background-color: #FAF3F0;
+    margin-left: 0px;
+    padding-top: 100px;
+    position: relative;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0px;
+    font-family: cursive;
+    color:#461959;
+    font-size: 562%;
+
+}
+.ptpt {
+    font-size: 300%;
+}
+
+body {
+    margin: 0px;
+    background-color: #FAF3F0;
+}
+h2 {
+    font-family: 'Lumanosimo', cursive;
+    color:#461959;
+    font-weight: 100;
+    /* font-size: ; */
+}
+h3 {
+    font-family: 'Lumanosimo', cursive;
+    color:#461959;
+}
+
+p {
+    margin-inline-end: 0px;
+    font-family: 'Lumanosimo', cursive;
+    color: #6C3428;
+}
+
+.c {
+    position: absolute;
+    bottom: 300px;
+    left: 200px;
+}
+.c2 {
+    position: absolute;
+    top: 30px;
+    margin-left: 17%;
+}
+.middle {
+    text-align: center;
+    background-color: #FAF3F0;
+    margin: 0%;
+}
+.ww {
+    width: 100px;
+    /* float: left; */
+}
+
+.skil {
+    width: 25%;
+    margin:100px auto 100px auto;
+    line-height: 2;
+    /* float: left; */
+    
+}
+.skil1 {
+    width: 25%;
+    margin:100px auto 100px auto;
+    line-height: 2;
+    /* float: left; */
+    
+}
+.profile {
+    line-height: 2;
+    text-align: center;
+    
+}
+
+hr {
+    border: dotted #052525 6px;
+    border-bottom: none;
+    width: 20%;
+    height: 30%;
+    margin: 100px auto 100px auto;
+}
+/* .ww:hover {
+    transform: scale(1.5);
+} */
+
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+    
+  }
+  
+  .btn:hover {
+    background: #195778;
+    background-image: -webkit-linear-gradient(top, #195778, #1e5980);
+    background-image: -moz-linear-gradient(top, #195778, #1e5980);
+    background-image: -ms-linear-gradient(top, #195778, #1e5980);
+    background-image: -o-linear-gradient(top, #195778, #1e5980);
+    background-image: linear-gradient(to bottom, #195778, #1e5980);
+    text-decoration: none;
+  }
+
+  .bottom {
+    background-color: #7dc1b6;
+    margin-top: 0%;
+    text-align: center;
+    padding: 50px 0 0 50px;
+  }
+
+  .a {
+    padding-left: 30px  ;
+    font-family:  'Lumanosimo',Helvetica, sans-serif;
+    font-size: large;
+    color: #2980b9;
+    text-decoration: none;
+  }
+
+  .b {
+    font-family: 'Lumanosimo', Helvetica, sans-serif;
+    font-size: large;
+    color: #2980b9;
+    text-decoration: none;
+  }
+
+  .a:hover {
+    color: #dc2323;
+
+  }
+  .b:hover {
+    color: #dc2323;
+
+  }
